@@ -1,6 +1,6 @@
 # Sense2stop: Analysis of Micro-Randomized Trial Data
 
-[(https://clinicaltrials.gov/ct2/show/NCT03184389)](https://clinicaltrials.gov/ct2/show/NCT03184389)
+[https://clinicaltrials.gov/ct2/show/NCT03184389](https://clinicaltrials.gov/ct2/show/NCT03184389)
 
 ## 0. About Sense2stop
 
