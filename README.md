@@ -26,7 +26,7 @@ File | Description
 ------------ | -------------
 [Sense2Stop: cStress summary](https://docs.google.com/document/d/1UxNEAOh2Ehdq7ESjQeKPvXKuX0FtnEBZuOwPx11bnR4/edit?usp=sharing) | Identifying time windows useful for intervention assessment.
 [Sense2Stop: Discussion on Outcomes](https://docs.google.com/document/d/1ULiIt9gfXpHVDGXyXcWizjU-Tj86loLIX2enp3FG2vk/edit?usp=sharing) | Discussion on Outcomes.
-[Sense2Stop: Results](https://docs.google.com/document/d/1dLNej-BYIqSDoXx7_29J843Rhosa_CM8gE8Jky7bG70/edit?usp=sharing) | Displays estimates of marginal and moderated causal effects.
+[Sense2Stop: Primary Analysis](https://docs.google.com/document/d/1dLNej-BYIqSDoXx7_29J843Rhosa_CM8gE8Jky7bG70/edit?usp=sharing) | Primary Analysis.
 
 ## 3. References
 
