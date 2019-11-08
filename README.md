@@ -24,10 +24,10 @@ are placed under the relevant header.
 
 File | Description
 ------------ | -------------
-[Sense2Stop: Data Files](https://docs.google.com/document/d/1Fs5X9Wslxj2iUykwcL8rBq15jJEfikEx1frtxSXsrwU/edit?usp=sharing) | Description of Available Data Files.
-[Sense2Stop: cStress summary](https://docs.google.com/document/d/1UxNEAOh2Ehdq7ESjQeKPvXKuX0FtnEBZuOwPx11bnR4/edit?usp=sharing) | Identifying time windows useful for intervention assessment.
-[Sense2Stop: Discussion on Outcomes](https://docs.google.com/document/d/1ULiIt9gfXpHVDGXyXcWizjU-Tj86loLIX2enp3FG2vk/edit?usp=sharing) | Discussion on Outcomes.
-[Sense2Stop: Primary Analysis](https://docs.google.com/document/d/1dLNej-BYIqSDoXx7_29J843Rhosa_CM8gE8Jky7bG70/edit?usp=sharing) | Primary Analysis.
+[Data Files & Participant Information](https://docs.google.com/document/d/1Fs5X9Wslxj2iUykwcL8rBq15jJEfikEx1frtxSXsrwU/edit?usp=sharing) | Description of Available Data Files & Participant Information.
+[cStress Summary](https://docs.google.com/document/d/1UxNEAOh2Ehdq7ESjQeKPvXKuX0FtnEBZuOwPx11bnR4/edit?usp=sharing) | Identifying time windows useful for intervention assessment.
+[Discussion on Outcomes](https://docs.google.com/document/d/1ULiIt9gfXpHVDGXyXcWizjU-Tj86loLIX2enp3FG2vk/edit?usp=sharing) | Discussion on defining the primary outcome.
+[Primary Analysis Plan](https://docs.google.com/document/d/1dLNej-BYIqSDoXx7_29J843Rhosa_CM8gE8Jky7bG70/edit?usp=sharing) | Primary Analysis Plan.
 
 ## 3. References
 
